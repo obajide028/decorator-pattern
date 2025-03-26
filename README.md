@@ -44,6 +44,6 @@ Classes like `Mocha` and `Whip` extends `CondimentDecorator` and modify the desc
 ---
 
 ## **Conclusion**
-The **Decorator Pattern** enhances flexibility, reusability, and maintainability by allowing functionality to be added at runtime without modifying existing code. It ensures better **code organization** and follows **SOlID Principles**, making it an ideal choice for extensible system.
+The **Decorator Pattern** enhances flexibility, reusability, and maintainability by allowing functionality to be added at runtime without modifying existing code. It ensures better **code organization** and follows **SOLID Principles**, making it an ideal choice for extensible system.
 
 By applying this pattern to the **Coffee Shop** simulation, I built a system where multiple decorators can be combined to create various coffee flavours, resulting in **cleaner and more scalable code**. 🚀
